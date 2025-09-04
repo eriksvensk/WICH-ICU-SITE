@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Example ICU – Replace with Your Site",
+    "hospital": "Your Hospital Name",
+    "city": "City",
+    "region": "Region",
+    "lat": 62.3908,
+    "lng": 17.3069,
+    "status": "Planned",
+    "start": "",
+    "contact": ""
+  }
+]

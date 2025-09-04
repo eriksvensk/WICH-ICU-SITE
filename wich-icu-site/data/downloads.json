@@ -1,0 +1,32 @@
+[
+  {
+    "title": "WICH-ICU – Information for Participating ICUs (PDF)",
+    "filename": "WICH-ICU_Information_for_ICUs.pdf",
+    "description": "One-page information sheet for ICUs: study type, requirements, benefits, and contacts."
+  },
+  {
+    "title": "Appendix 1: PICO (PDF)",
+    "filename": "Appendix_1_PICO.pdf",
+    "description": "Population, Intervention, Comparison, Outcome summary for WICH-ICU."
+  },
+  {
+    "title": "Appendix 2: Flowchart (PDF)",
+    "filename": "Appendix_2_Flowchart.pdf",
+    "description": "Step-by-step flow for participating units (monitoring periods, intervention, follow-up)."
+  },
+  {
+    "title": "Appendix 3: Implementation Guide (PDF)",
+    "filename": "Appendix_3_Implementation_Guide.pdf",
+    "description": "Practical guidance for implementing Choosing Wisely in ICU (ABG, labs, chest x-ray)."
+  },
+  {
+    "title": "Monitoring Form (PDF)",
+    "filename": "Monitoring_Form_WICH-ICU.pdf",
+    "description": "5-day monitoring template for ABGs, venous labs, and chest x-rays."
+  },
+  {
+    "title": "Study Protocol (DOCX)",
+    "filename": "Protocol_WICH-ICU_SteppedWedge.docx",
+    "description": "Protocol & Statistical Analysis Plan (stepped-wedge cluster randomized design)."
+  }
+]
